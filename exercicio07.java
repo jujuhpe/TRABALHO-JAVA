@@ -1,3 +1,5 @@
+// JULIA ANDRADE SILVA
+//RA: 1261933183
 import java.util.Scanner;
 
 public class exercicio07 {
